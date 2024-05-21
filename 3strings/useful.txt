@@ -1,0 +1,3 @@
+### explanation of escape characters in strings4
+https://pythonexamples.org/python-string-escape-single-quote/
+https://pythonexamples.org/python-string-escape-backslash/
