@@ -1,3 +1,9 @@
 ### explanation of escape characters in strings4
 https://pythonexamples.org/python-string-escape-single-quote/
 https://pythonexamples.org/python-string-escape-backslash/
+
+### note on ASCII
+Decimal 0-9 = 48-57
+Upcase Letters A-Z = 65-90
+Lowcase letters a-z = 97-122
+any lower case letter point is greatyer by 32 than upper case counterpoint
